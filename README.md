@@ -1,2 +1,3 @@
 # Life_Line
- 2.2 project 01
+ 2nd year project 
+ Please open Project1 folder using local server to run this project.
